@@ -1,7 +1,5 @@
 # Deep Learning project
 
-Martin FRANCESCHI, Romain PERRONE
-
 ## Starting instructions
 
 Use python3 !
