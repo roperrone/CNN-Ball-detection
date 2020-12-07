@@ -1,4 +1,8 @@
-# Starting instructions
+# Deep Learning project
+
+Martin FRANCESCHI, Romain PERRONE
+
+## Starting instructions
 
 Use python3 !
 
@@ -9,9 +13,6 @@ Use python3 !
 5. Create training loop etc.
 more information and second exercise found [here](https://perso.liris.cnrs.fr/christian.wolf/teaching/deeplearning/tp.html):  
 
+## Instructions to run the project
 
-# Instructions to run the project:
-Please can you include instructions for running your project and results / training curves here.
-For an example see [here](https://github.com/edbeeching/3d_control_deep_rl)
-
-
+This project requires usual Anaconda, PyTorch and Torchvision packages, with Python 3.8+.
